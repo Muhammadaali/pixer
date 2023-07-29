@@ -1,0 +1,195 @@
+.nav{
+    background-color: white;
+    height: 100px;
+    display: flex;
+    border-bottom:5px solid red ;
+    align-items: center;
+    color: blue;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    font-size:  30px;
+    margin-top: -90px;
+    
+}
+a{
+    text-decoration: none;
+    color: blue ;
+}
+.ha{
+    text-decoration: none;
+    color: red;
+    font-size: 40px;
+    
+}
+.ha:hover{
+    color: blue;
+}
+
+.i1{
+    margin-left: 20px;
+    transition: 0.3s;
+}
+.i1{
+    color: black;
+    background-color: red;
+    border-radius: 6px;
+}
+
+
+.img{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+.te{
+    font-style: italic;
+    margin-left: 1000px;
+    margin-top: -560px;
+    font-size: 25px;
+}
+.p{
+    font-size: 50px;
+}
+.dermatolog{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+.dp{
+    width: 280px;
+    height: 350px;
+    text-align: center;
+}
+.dy{
+    width: 300px;
+}
+.lor{
+    width: 300px;
+   
+}
+.asosiy{
+    border-radius: 10px;
+    display: flex;
+   background-color: white;
+   justify-content: center;
+}
+.ikki{
+    justify-content: center;
+    border-radius: 10px;
+   display: flex;
+   background-color: white;
+   margin-top: -25px;
+ 
+}
+.card{
+    width: 300px;
+}
+.hm{
+    width: 300px;
+}
+.p{
+    color: blue;
+}
+.ikki img{
+    width: 300px;
+    height: 200px;
+}
+.asosiy img{
+    width: 300px;
+    height: 200px;
+}
+.iza{
+    border-radius: 10px;
+    display: flex;
+    width: 2360px;
+    height: 450px;
+    background-color: grey;
+    margin-bottom: -10px;
+    margin-top: 200px;
+}
+.izar h1{
+    padding-left: 30px;
+    padding: 30px;
+}
+.izar p{
+    font-size: 25px;
+    padding-left: 30px;
+}
+.izar{
+    margin-top: -7px;
+}
+.doc p{
+  font-size: 25px;
+  padding-top: 30px;
+}
+.doc{
+    margin: 25px;
+    padding-left: 30px;
+}
+.loc p{
+    font-size: 25px;
+    padding-top: 30px;
+  }
+.loc{
+      margin: 25px;
+      padding-left: 40px;
+  }
+
+  .ph p{
+    font-size: 25px;
+    padding-top: 30px;
+  }
+.ph{
+      margin: 25px;
+      padding-left: 40px;
+  }
+
+  .em p{
+    font-size: 25px;
+    padding-top: 30px;
+  }
+.em{
+      margin: 25px;
+      padding-left: 50px;
+  }
+  .iza img{
+    border-radius: 10px 10px 10px 10px;
+    padding-top: 100px;
+    margin-top: -100px;
+    margin-left: 775px;
+    height: 450px;
+  }
+.dermatolog{
+    transition: 0.5s;
+    border-radius: 10px;
+  }
+.dermatolog:hover{
+    transform: scale(1.1);
+    border: 3px solid aqua;
+    box-shadow: 0 0 40px ;
+  }
+  .loc1{
+    width: 15000px;
+    height: 400px;
+   margin-top: 20px;
+   border-radius: 10px;
+  }
+  .h12{
+    font-size: 40px;
+   
+    color: blue;
+  }
+  iframe {
+    margin-top: -20px;
+    width: 2360px;
+    height: 600px;
+  }
+/* 
+  .iza{
+    margin-top: 100px;
+  } */
